@@ -15,3 +15,8 @@ Welcome to the Big Data Specialization! We're excited for you to get to know us 
 Have you ever wondered what a supercomputer is?\
 At the following video, learn about what supercomputers are, what kinds of people work at a supercomputer center, and some fun facts about San Diego Supercomputer Center, where the instructors of this specialization work.\
 [https://www.youtube.com/watch?v=x87GrXgmQ2k](https://www.youtube.com/watch?v=x87GrXgmQ2k)
+
+### Did you know?: 25 facts about big data
+Did you know 90% of the information ever generated was generated in the last two years?\
+Here is a link to this fact and 25 other interesting facts about big data as listed by one of the big data influencers, Bernard Marr.\
+[http://www.slideshare.net/BernardMarr/big-data-25-facts/2-Every_2_dayswe_create_as](http://www.slideshare.net/BernardMarr/big-data-25-facts/2-Every_2_dayswe_create_as)
