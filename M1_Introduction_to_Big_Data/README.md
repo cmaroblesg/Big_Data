@@ -23,3 +23,6 @@ Most computers with 8 GB RAM purchased in the last 3 years will meet the minimum
 
 ## Software Requirements:
 This course relies on several open-source software tools, including Apache Hadoop. All required software can be downloaded and installed free of charge. Software requirements include: Windows 7+, Mac OS X 10.10+, Ubuntu 14.04+ or CentOS 6+ VirtualBox 5+.
+
+## Content
+* **Week 1:** [Introduction to Big data](./Week1/README.md)
