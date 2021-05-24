@@ -22,4 +22,4 @@ Here is a link to this fact and 25 other interesting facts about big data as lis
 [http://www.slideshare.net/BernardMarr/big-data-25-facts/2-Every_2_dayswe_create_as](http://www.slideshare.net/BernardMarr/big-data-25-facts/2-Every_2_dayswe_create_as)
 
 ### Slides: What Launched the Big Data Era?
-[Slides to the What Launched the Big Data Era lecture](./files/What_Launched_the_Big_Data_Era?.pdf)
+[Slides to the What Launched the Big Data Era lecture](./files/What_Launched_the_Big_Data_Era.pdf)
