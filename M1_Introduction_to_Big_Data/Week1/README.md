@@ -23,3 +23,6 @@ Here is a link to this fact and 25 other interesting facts about big data as lis
 
 ### Slides: What Launched the Big Data Era?
 [Slides to the What Launched the Big Data Era lecture](./files/What_Launched_the_Big_Data_Era.pdf)
+
+### Slides: Applications: What Makes Big Data Valuable?
+[Slides to the What Makes Big Data Valuable? lecture](./files/What_Makes_Big_Data_Valuable.pdf)
