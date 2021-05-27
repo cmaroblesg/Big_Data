@@ -10,6 +10,12 @@ You may have heard of the "Big Vs". We'll give examples and descriptions of the 
 * [Characteristics of Big Data - Veracity](./files/Characteristics_of_Big_Data-Veracity.pdf)
 * [Characteristics of Big Data - Value](./files/Characteristics_of_Big_Data-Value.pdf)
 * [Characteristics of Big Data - Valence](./files/Characteristics_of_Big_Data-Valence.pdf)
+
+# Data Science: Getting Value out of Big Data
+## Introduction
+We love science and we love computing, don't get us wrong. But the reality is we care about Big Data because it can bring value to our companies, our lives, and the world. In this module we'll introduce a 5 step process for approaching data science problems.
+
+## Readings
 * [Getting Value Out of Big Data](./files/Getting_Value_Out_of_Big_Data.pdf)
 * [Building a Big Data Strategy](./files/Building_a_Big_Data_Strategy.pdf)
 * [The Five P's of Data Science](./files/The_Five_Ps_of_Data_Science.pdf)
