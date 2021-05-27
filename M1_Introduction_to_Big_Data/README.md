@@ -26,3 +26,4 @@ This course relies on several open-source software tools, including Apache Hadoo
 
 ## Content
 * **Week 1:** [Introduction to Big data](./Week1/README.md)
+* **Week 2:** [Characteristics of Big Data and Dimensions of Scalability](./Week2/README.md)
