@@ -5,3 +5,4 @@ Do you need to understand big data and how it will impact your business? This Sp
 
 # Content
 * **Course 1:** [Introduction to Big Data](./M1_Introduction_to_Big_Data/README.md)
+* **Course 2:** [Big Data Modelling and Management Systems](./M2_Big_Data_Modeling_and_Management_Systems/README.md)
