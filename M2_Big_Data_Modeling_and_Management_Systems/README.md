@@ -34,3 +34,4 @@ Ilkay, Amarnath and the Big Data Specialization Team
 * **Week 1:** [Introduction to Big Data Modeling and Management](./Week1/README.md)
 * **Week 2:** [Big Data Modelling](./Week2/README.md)
 * **Week 3:** [Big Data Modelling (Part2)](./Week3/README.md)
+* **Week 4:** [Working With Data Models](./Week4/README.md)
