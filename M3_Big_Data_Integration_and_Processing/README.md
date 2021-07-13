@@ -37,3 +37,4 @@ Good luck as you get started, and I hope you enjoy the course!
 ## Content:
 * **Week 1:** [Welcome to Big Data Integration and Processing](./files/Week1/README.md)
 * **Week 2:** [Retrieving Big Data (Part 2)](./files/Week2/README.md)
+* **Week 3:** [Big Data Integration](./files/Week3/README.md)
