@@ -9,4 +9,3 @@ Do you need to understand big data and how it will impact your business? This Sp
 * **Course 3:** [Big Data Integration and Processing](./M3_Big_Data_Integration_and_Processes/README.md)
 * **Course 4:** [Machine Learning with Big Data](./M4_Machine_Learning_With_Big_Data/README.md)
 * **Course 5:** [Graph Analytics for Big Data](./M5_Graph_Analytics_for_Big_Data/README.md)
-* **Course Capstone:** [Coursera Capstone](./MC_Capstone/README.md)
