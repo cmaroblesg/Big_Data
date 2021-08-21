@@ -19,6 +19,6 @@ At the end of the course, you will be able to:
 ## Contents
 * **Week 1:** [Machine Learning with Big Data](./Week1/README.md)
 * **Week 2:** [Data Exploration](./Week2/README.md)
-* **Week 3:** [](./Week3/README.md)
+* **Week 3:** [Classification](./Week3/README.md)
 * **Week 4:** [](./Week4/README.md)
 * **Week 5:** [](./Week5/README.md)

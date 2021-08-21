@@ -15,3 +15,16 @@
 * [Data Exploration](./files/data_exploration.pdf)
 * [Summary Statistics](./files/summary_statistics.pdf)
 * [Plots](./files/plots.pdf)
+
+## Readings
+* [Description of Daily Weather Dataset](./files/DescriptionofDailyWeatherDataset.pdf)
+* [Data Exploration in Spark](./files/DataExplorationinSpark.pdf)
+* [Exploring Data With KNIME Plots](./files/ExploringDataWithKNIMEPlots.pdf)
+
+## Data Preparation for Machine Learning
+* [Data Preparation](./files/data_preparation.pdf)
+* [Data Quality](./files/data_quality.pdf)
+* [Addressing Data Quality Issues](./files/addressing_data_quality_issues.pdf)
+* [Feature Selection](./files/feature_selection.pdf)
+* [Feature Transformation](./files/feature_transformation.pdf)
+* [Dimensionality Reducction](./files/dimensionality_reduction.pdf)
