@@ -20,5 +20,5 @@ At the end of the course, you will be able to:
 * **Week 1:** [Machine Learning with Big Data](./Week1/README.md)
 * **Week 2:** [Data Exploration](./Week2/README.md)
 * **Week 3:** [Classification](./Week3/README.md)
-* **Week 4:** [](./Week4/README.md)
-* **Week 5:** [](./Week5/README.md)
+* **Week 4:** [Evaluation of Machine Learning Models](./Week4/README.md)
+* **Week 5:** [Regression, Cluster Analysis, and Association Analysis](./Week5/README.md)
